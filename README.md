@@ -1,5 +1,5 @@
 
-#  什么是信任银行 creditBank
+#  什么是信用银行 creditBank
 
 > 个人信用数字资产化
 
